@@ -1,0 +1,4 @@
+station_code;station_name;city;module_code;connector_type;power_kw;load_score;deficit_score
+PLT-EV01;ЕкоЗаряд Центр;Полтава;MOD-103;CCS2;150.0;85;60
+PLT-EV02;ЕкоЗаряд Траса М03;Полтава;MOD-202;CCS2;160.0;92;85
+PLT-EV03;ЕкоЗаряд Південний;Полтава;MOD-301;Type 2;22.0;55;40
